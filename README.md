@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- Wanna contact me?
+- C̷̡̨̻̺̦̦̳̾͆͌̇ȏ̴̡̫̜̮̤̭̗̥͠n̸̢͔̳̩̤͕͍̺͂͒t̵̡̛̯̪͖͉̭̓̾à̵̫̥̣̬̘̭̻̄̅͒͝͠c̷͉̳͔̆͌͠ͅt̷͈͔̀́̎͑͆̓̌͠͠?̸̨̗̓͂
 
--  ![](https://dcbadge.vercel.app/api/shield/655515701880291358)
+![](https://dcbadge.vercel.app/api/shield/655515701880291358)
 
 - 🌱 I’m currently learning Python
 
