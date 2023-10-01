@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Wanna contact me?
+- Wanna contact me?
 
-![](https://dcbadge.vercel.app/api/shield/655515701880291358)
+-  ![](https://dcbadge.vercel.app/api/shield/655515701880291358)
 
 - 🌱 I’m currently learning Python
 
